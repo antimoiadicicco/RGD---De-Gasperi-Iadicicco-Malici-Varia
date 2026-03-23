@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/franc/Documents/GitHub/RGD---De-Gasperi-Iadicicco-Malici-Varia/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/franc/Documents/GitHub/RGD---De-Gasperi-Iadicicco-Malici-Varia/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/3Y/7CFIM6C11OVAPG7A7R2YSZ.uasset",
+				"C:/Users/franc/Documents/GitHub/RGD---De-Gasperi-Iadicicco-Malici-Varia/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/WP/E7FJMUU97LBPVIXVR3962E.uasset",
+				"C:/Users/franc/Documents/GitHub/RGD---De-Gasperi-Iadicicco-Malici-Varia/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/7W/5YO7CTSZ18IF5MGX2BY8EX.uasset"
+			]
+		}
+	]
+}
